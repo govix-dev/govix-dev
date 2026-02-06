@@ -5,10 +5,10 @@
 
 - 📫 How to reach me **govindsarayu@gmail.com**
 
-- ⚡**Turning code into real-world systems,
+-  Turning code into real-world systems,
 -  RF signals over coffee ☕ ,
 -  📡 Building things that talk to space 🛰️,
--  Backend by day, antennas by night**
+-  Backend by day, antennas by night
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
